@@ -1,3 +1,4 @@
-print("Hellow world")
-print("Hellow world1")
-print("Hellow world2")
+def PrintWorld():
+    print("Hellow World")
+
+PrintWorld()
